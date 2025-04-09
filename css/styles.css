@@ -129,8 +129,8 @@ h4{
 
 /* main image */
 .main-image{
-    height: 400px;
-    background-image: url(../CROCHE/Etiqueta.PNG);
+    height: 700px;
+    background-image: url(../CROCHE/Souplast/souplast);
     margin-bottom: 30px;
     position: relative;
 }
