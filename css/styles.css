@@ -317,7 +317,11 @@ h4{
 .small-image-container{
     height: 500px;
     margin-bottom: 20px;
+    background-size: cover;
     background-position: center;
+    border-radius: 10px;
+    border: 5px solid #8C735D;
+
 }
 
 .small-image-container-2-1{
@@ -327,12 +331,22 @@ h4{
     background-position: center;
     border-radius: 10px;
 }
+.small-image-container-1{
+    width: 140px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    border: 5px solid #8C735D;
+}
+
 .small-image-container-2{
     width: 140px;
     height: 200px;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
+    border: 5px solid #8C735D;
 }
 
 .small-image-container-3{
